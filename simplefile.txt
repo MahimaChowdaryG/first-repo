@@ -1,5 +1,5 @@
- line Every
+ line Each
  line Good
- line Person
+ line Girl
  line Deserves
  line Help
